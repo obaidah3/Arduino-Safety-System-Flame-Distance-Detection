@@ -4,13 +4,10 @@ This project demonstrates an **embedded safety system** using an **Arduino Uno**
 The system detects flame hazards and measures distance, providing real-time alerts visually (OLED) and audibly (buzzer & LED).
 
 ---
+
 ## 🎥 Demo Video
 
-[![Watch the Video](https://img.shields.io/badge/▶️%20Watch%20Demo%20Video-blue?style=for-the-badge)](https://github.com/obaidah3/Arduino-Safety-System-Flame-Distance-Detection/raw/main/Flame-Distance-Detection.mp4)
-
-## 🎞️ Demo Preview
-
-[![Demo Preview](https://raw.githubusercontent.com/obaidah3/Arduino-Safety-System-Flame-Distance-Detection/main/assets/demo-preview.png)](https://github.com/obaidah3/Arduino-Safety-System-Flame-Distance-Detection/raw/main/Flame-Distance-Detection.mp4)
+[![Watch the Video](https://img.shields.io/badge/▶️%20Watch%20Live%20Video-blue?style=for-the-badge)](https://raw.githubusercontent.com/obaidah3/Arduino-Safety-System-Flame-Distance-Detection/main/Flame-Distance-Detection.mp4)
 
 ---
 
