@@ -7,7 +7,9 @@ The system detects flame hazards and measures distance, providing real-time aler
 
 ## 🎥 Demo Video
 
-[![Watch the Video](https://img.shields.io/badge/▶️%20Watch%20Live%20Video-blue?style=for-the-badge)](https://raw.githubusercontent.com/obaidah3/Arduino-Safety-System-Flame-Distance-Detection/main/Flame-Distance-Detection.mp4)
+[![Watch the video](http://img.youtube.com/vi/MidnICDt_h0/0.jpg)](https://youtu.be/MidnICDt_h0)
+
+[![Watch on YouTube](https://img.shields.io/badge/▶️%20Watch%20on%20YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/MidnICDt_h0)
 
 ---
 
